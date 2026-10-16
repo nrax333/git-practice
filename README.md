@@ -36,3 +36,4 @@ git log --oneline
 ## What I Am Learning
 
 I am learning how to track changes, manage branches, and collaborate using Git and GitHub.
+Learning how Git staging works.
