@@ -37,4 +37,3 @@ git log --oneline
 
 I am learning how to track changes, manage branches, and collaborate using Git and GitHub.
 Learning how Git staging works.
-Temporary feature for revert practice.
